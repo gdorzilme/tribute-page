@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    
+}
+.header {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+#img-div {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+} 
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+#img-caption {
+  display: flex;
+  justify-content: center;
+} 
+
+#tribute-info {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+} 
+
+#tribute-comment {
+    display: flex;
+    justify-content: center;
+}
+
+
