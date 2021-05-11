@@ -17,6 +17,18 @@ body {
     background: linear-gradient(180deg, red, black, yellow, green, white, blue);
 }
 
+#title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#subtitle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .header {
    display: flex;
    justify-content: center;
